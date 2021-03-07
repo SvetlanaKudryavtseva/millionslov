@@ -1,0 +1,8 @@
+node_modules
+dist
+debug.log
+workspace.millionslov.code-workspace
+sftp.json
+debug.log
+.vscode
+3.millionwords.app
